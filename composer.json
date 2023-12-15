@@ -1,0 +1,13 @@
+{
+    "name": "brendon/pdfs",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.28",
+        "twbs/bootstrap-icons": "^1.10",
+        "twbs/bootstrap": "5.3.0"
+    },
+    "autoload": {
+        "files":[
+            "configuration/conexao.php"
+        ]
+    }
+}
